@@ -1,0 +1,16 @@
+# Ignore virtual environment
+market-sim/
+*.log
+
+# Ignore data files
+data/*.csv
+
+# Ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore compiled files
+*.pyc
+__pycache__/
